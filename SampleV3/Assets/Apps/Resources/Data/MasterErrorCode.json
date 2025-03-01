@@ -1,0 +1,118 @@
+{
+	"data": [
+		{
+			"id": "100",
+			"descriptionKey": "success",
+			"handle": true,
+			"success": true
+		},
+		{
+			"id": "101",
+			"descriptionKey": "UNKNOWN_ERROR",
+			"handle": false,
+			"success": false
+		},
+		{
+			"id": "102",
+			"descriptionKey": "WRONG_REQUEST",
+			"handle": false,
+			"success": false
+		},
+		{
+			"id": "103",
+			"descriptionKey": "LOAD_DATA_FAILED",
+			"handle": false,
+			"success": false
+		},
+		{
+			"id": "104",
+			"descriptionKey": "SAVE_DATA_FAILED",
+			"handle": false,
+			"success": false
+		},
+		{
+			"id": "105",
+			"descriptionKey": "NOT_ENOUGH",
+			"handle": false,
+			"success": false
+		},
+		{
+			"id": "106",
+			"descriptionKey": "NOT_OWN",
+			"handle": true,
+			"success": false
+		},
+		{
+			"id": "107",
+			"descriptionKey": "NOT_EXIST",
+			"handle": true,
+			"success": false
+		},
+		{
+			"id": "200",
+			"descriptionKey": "ACCOUNT_NOT_ACTIVATE",
+			"handle": true,
+			"success": false
+		},
+		{
+			"id": "201",
+			"descriptionKey": "ACCOUNT_NOT_FOUND",
+			"handle": true,
+			"success": false
+		},
+		{
+			"id": "202",
+			"descriptionKey": "WRONG_PASSWORD",
+			"handle": true,
+			"success": false
+		},
+		{
+			"id": "203",
+			"descriptionKey": "UNAUTHORIZED",
+			"handle": true,
+			"success": false
+		},
+		{
+			"id": "204",
+			"descriptionKey": "EXPIRED_TOKEN",
+			"handle": true,
+			"success": false
+		},
+		{
+			"id": "205",
+			"descriptionKey": "LOGIN_MULTIPLE_DEVICES",
+			"handle": true,
+			"success": false
+		},
+		{
+			"id": "206",
+			"descriptionKey": "NEED_TO_UPDATE_CLIENT",
+			"handle": true,
+			"success": false
+		},
+		{
+			"id": "207",
+			"descriptionKey": "CHANGE_INVALid_NAME",
+			"handle": true,
+			"success": false
+		},
+		{
+			"id": "208",
+			"descriptionKey": "CHANGE_DUPLICATED_NAME",
+			"handle": true,
+			"success": false
+		},
+		{
+			"id": "303",
+			"descriptionKey": "ANOTHER_USER_CONNECT",
+			"handle": true,
+			"success": false
+		},
+		{
+			"id": "305",
+			"descriptionKey": "NOT_IN_WHITELIST",
+			"handle": true,
+			"success": false
+		}
+	]
+}

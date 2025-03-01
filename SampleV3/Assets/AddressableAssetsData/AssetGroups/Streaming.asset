@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Streaming
+  m_EditorClassIdentifier: 
+  m_GroupName: Streaming
+  m_GUID: f3c94269707114b429cb7026ca1681d3
+  m_SerializeEntries:
+  - m_GUID: 1225508416cb5c841ab30490d72a3536
+    m_Address: Object/Store/StoreDatabase
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14d862b4e84fba746b6eb790e68cd4ca
+    m_Address: Image/HandType/0/Flush
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c8cb21752ea5b647b7779de7cd18ed8
+    m_Address: UI/UIPopupMessage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cd671d91f5e93f48ba2254e6737a6eb
+    m_Address: Image/HandType/0/FourOfAKind
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e67aba48f1845349b6c55eadf45359f
+    m_Address: UI/UIDragToView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ec3261bd5863034fa1d945a035f478f
+    m_Address: Image/GameMode/Mode_Cash_Red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23224313b81a68545b6792d081dd6726
+    m_Address: UI/UILoading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2920ec35517553741a29aae17b1b2309
+    m_Address: Image/HandType/0/RoyalFlush
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2eb1fde88f18312459be035e759a19f6
+    m_Address: Image/HandType/0/ThreeOfAKind
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ef3fbaa1c4d52046933d8a958306734
+    m_Address: Image/GameMode/Mode_Cash_Yellow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f95292326a93ae4aaaf006195f356bc
+    m_Address: UI/UIShop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 378900930e9d28048b76e86d9409e3dc
+    m_Address: UI/UIQuest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 379791244003c4c49af7ab5071affc47
+    m_Address: UI/UIMainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e7d53c9eb776d747b646a7696748f56
+    m_Address: UI/UILoadingMainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3eec6cf18a2a67f4887eb05d3fe09fbe
+    m_Address: Image/GameMode/Mode_Play_Red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4336c87645711a64da211ef610aec522
+    m_Address: Image/BG_MainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47ec248107396474f89924cd7547e72d
+    m_Address: UI/UIBottomMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a1ab380875865d4987fae7f3eef16c9
+    m_Address: UI/UIPopupSetting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f1967e00f3deb0479602142ae344752
+    m_Address: UI/UIPopupYesNoMessage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 558445e265e5ab349a16001550291a87
+    m_Address: UI/UILeaderboard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b444a99b8fd3104b84781d071bdf426
+    m_Address: UI/UILogin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7221b86d513062343b7df94d99542f6b
+    m_Address: UI/UIWaiting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7268f87e4c929124eae2192b7cca9b0c
+    m_Address: UI/UIPopupError
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76564b37fe38ede4f8794c327f388768
+    m_Address: UI/UIBackground
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78abc7bc65f6239439831fd74397a8fb
+    m_Address: Image/HandType/0/FullHouse
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a589a57f123a7b4b84d1c6476ff499f
+    m_Address: Image/HandType/0/Pair
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 986eadc3cd9c60d49b73b284cb374aba
+    m_Address: Image/HandType/0/TwoPairs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b10ef30f15f0fe4197380849062ba1a
+    m_Address: Image/HandType/0/StraightFlush
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b5662a8e568e4d4ba572ffd04725da9
+    m_Address: Image/GameMode/Mode_Cash_Blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bba447ab3af739d4f8ffc973206a5841
+    m_Address: Image/HandType/0/HighCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: beaf32fcc9d3e714e82aecd0744c4534
+    m_Address: UI/UIFriend
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf1cd968fd760974ea1fd40349fe3387
+    m_Address: UI/UIPopupShopMessage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4c593bb23b6c8543b883ab1cd854c62
+    m_Address: UI/UIHeader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c990d94d68fdeb444913506f56458a9c
+    m_Address: Assets/AssetBundles/Scene/GameScene/LightingData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d33d104bd20f1b244815b108ccd86cb8
+    m_Address: UI/UIPopupBuyIn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d43c4fe98b25d024ca682f9cbda09711
+    m_Address: Object/AudioComponent
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dadd52c4ac5a7ac4caae6745f6174ec1
+    m_Address: Image/HandType/0/Straight
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1487e8bcf1b0594f90d260f29ad2fd1
+    m_Address: Assets/AssetBundles/Scene/GameScene/ReflectionProbe-0.exr
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee00ced2f1760d04595133dbdc2ef809
+    m_Address: Scene/GameScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f53612fd5f7a60c47ad667f86909d678
+    m_Address: UI/UIPopupOTP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ef06b54ccdf3c07458a1584b8d5de2be, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8fcf8be28a61353438346e216f45bc5e, type: 2}
+    - {fileID: 11400000, guid: 05e55eda7628f3546afb28853239ee67, type: 2}
